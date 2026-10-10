@@ -87,13 +87,13 @@ Usage: ./a.out <operand1> <operator> <operand2>
 
 🧮 Supported Operations
 
-Operation| Description
-Addition (+)| Adds two large integers
-Subtraction (-)| Subtracts one large integer from another
-Multiplication (*)| Multiplies large integers
-Division (/)| Divides one integer by another
-Comparison| Compares two integers
-Sign handling| Processes positive and negative numbers
+Operation                  | Description
+Addition (+)               | Adds two large integers
+Subtraction (-)            | Subtracts one large integer from another
+Multiplication (*)         | Multiplies large integers
+Division (/)               | Divides one integer by another
+Comparison                 | Compares two integers
+Sign handling              | Processes positive and negative numbers
 
 🧠 Concepts Demonstrated
 
